@@ -1,0 +1,186 @@
+.EdocIMG {
+    margin:0 7px 0 10px;
+    width: 39.15px;
+    height: 40px;
+    top:8px
+}
+.EdocT {
+    margin: 3px 39px 3px 7px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    vertical-align: middle;
+}
+.ReceptesIMG {
+    width: 28px;
+    height: 28px;
+    top: 1px;
+    margin: 17 0 17 39;
+}
+#ReceptesT {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    margin: 16px 23px 15px 0;
+}
+.FavoritesIMG {
+    width: 32px;
+    height: 33px;
+    top: -1px;
+    margin: 16 0 13 23;
+}
+.FavoritesT {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    margin: 16 23 16 0;
+}
+header {
+    width: 100%;
+    background: #A5EE83;
+    display: flex;
+}
+.ConnectIMG {
+    width: 27.91px;
+    height: 27.91px;
+    margin: 17 6 17 23;
+}
+.ConnectT {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    margin: 17 21 17 6;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+body {
+    background-image: url(img/shutterstock_1660483093.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hi {
+    margin: 76px 0 0 0;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+}
+.namesites {
+    margin: 0 0 0 0;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 100px;
+    line-height: 121px;
+}
+.about_what {
+    margin: 51px 0 0 0;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+}
+.about {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 38px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    width: 825px;
+    height: 822px;
+}
+.Receptes {
+    margin: 84px 249px 107px 240px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 116px;
+    text-align: center;
+}
+.Okroshka {
+    margin: 0 39px 84px 28px;
+}
+.RecOkroshka {
+    margin-top: 107px;
+    margin-bottom: 84px;
+    display: flex;
+}
+.RecOkroshka p  {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    width: 469px;
+    height: 198px;
+    margin-right: auto;
+    margin-top: 0;
+}
+.folder2 {
+    background-image: url(img/весёлая-семья-подготовляя-обед-совместно-128095221.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Recept№1 {
+    background-image: url(img/18-32.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Recept№2 {
+    background-image: url(img/1664371656_10-podacha-blud-com-p-gotovie-blini-foto-102.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Recept№3 {
+    background-image: url(img/7a1190fdaa8221933b46b7331511283b2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.aboutforokroshka {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 38px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    width: 825px;
+    height: 822px;
+}
+span {
+    background-color: white;
+}
+.aboutforblini {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    width: 899px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #000;
+    font-size: 40px;
+    font-family: 'Inter';
+}
+ol {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #000;
+    font-size: 40px;
+    font-family: 'Inter';
+}
